@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/RestaurantManagement/src/view/GDTimBanTrong.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/RestaurantManagement/src/controller/DAO.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/RestaurantManagement/src/model/Booking.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/RestaurantManagement/src/controller/MemberDAO.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/RestaurantManagement/src/model/Food.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/RestaurantManagement/src/view/GDLeTan.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/RestaurantManagement/src/view/GDXacNhanDatBan.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/RestaurantManagement/src/controller/KhachDAO.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/RestaurantManagement/src/view/GDTimMon.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/RestaurantManagement/src/model/Combo.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/RestaurantManagement/src/view/GDNVOrder.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/RestaurantManagement/src/model/Ban.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/RestaurantManagement/src/model/UsedFood.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/RestaurantManagement/src/view/LoginFrm.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/RestaurantManagement/src/controller/BookingDAO.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/RestaurantManagement/src/model/PhieuOrder.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/RestaurantManagement/src/view/GDXacNhanOrder.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/RestaurantManagement/src/view/GDNVBanHang.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/RestaurantManagement/src/model/SelectionFood.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/RestaurantManagement/src/view/GDXacNhanNhanBan.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/RestaurantManagement/src/view/GDTimBooking.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/RestaurantManagement/src/view/GDTimBanDaNhan.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/RestaurantManagement/src/controller/BanDAO.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/RestaurantManagement/src/model/UsedSelectionFood.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/RestaurantManagement/src/model/UsedCombo.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/RestaurantManagement/src/model/ThanhVien.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/RestaurantManagement/src/controller/PhieuOrderDAO.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/RestaurantManagement/src/model/KhachHang.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/RestaurantManagement/src/controller/SelectionFoodDAO.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/RestaurantManagement/src/view/GDTimKhach.java</file>
+        </group>
+    </open-files>
+</project-private>
